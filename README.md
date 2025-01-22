@@ -49,10 +49,36 @@ A user-friendly application to enhance learning through interactive and engaging
 <br style="clear: both;">
 
 
-ByteFlow includes a powerful real-time code execution terminal
-
 
 - Cross platform
+
+
+ 
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px;">
+  <img align="left" height="300" src="https://github.com/user-attachments/assets/13226f4a-43fb-468d-b9c3-de5ce72320e1" style="margin-right: 20px;">
+  
+  <div style="text-align: center; max-width: 400px; margin: 0 auto;">
+    <p style="font-size: 18px; font-weight: bold; margin-bottom: 10px;">
+      ByteFlow is crafted to work effortlessly across Android and iOS, bringing your learning journey to life, wherever you are.
+    </p>
+    <p style="font-size: 14px; color: gray;">
+      Android: Compatible with devices running Android 8.1 (Oreo) and above.<br>
+      iOS: Designed to run smoothly on iOS 17 and later versions.
+    </p>
+  </div>
+  
+  <img align="right" height="300" src="https://github.com/user-attachments/assets/28f015b5-0cb8-4b23-9164-2b917faecc50" style="margin-left: 20px;">
+</div>
+
+<br style="clear: both;">
+<br style="clear: both;">
+<br style="clear: both;">
+<br style="clear: both;">
+<br style="clear: both;">
+<br style="clear: both;">
+<br style="clear: both;">
+<br style="clear: both;">
+<br style="clear: both;">
 
 
 ## Authors
