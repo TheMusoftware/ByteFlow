@@ -16,7 +16,7 @@ A user-friendly application to enhance learning through interactive and engaging
 </h4>
 
 
-<h4><img align="right" height="300"  src="https://github.com/user-attachments/assets/25d0367a-f7f6-4487-b233-9ac5e6dc7475">      Code in real-time, break boundaries—ByteFlow's terminal, where execution meets perfection
+<h4><img align="left" height="300"  src="https://github.com/user-attachments/assets/25d0367a-f7f6-4487-b233-9ac5e6dc7475">      Code in real-time, break boundaries—ByteFlow's terminal, where execution meets perfection
 
 </h4>
 
