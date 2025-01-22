@@ -14,11 +14,11 @@ A user-friendly application to enhance learning through interactive and engaging
 
 <p>
   <h4 style="text-align: center;">
-  <img align="left" height="300" src="https://github.com/user-attachments/assets/a9f73f4c-fff2-4fe6-96e8-60dd3365e938" style="margin: 50px;">
+  <img align="left" height="300" src="https://github.com/user-attachments/assets/a9f73f4c-fff2-4fe6-96e8-60dd3365e938" style="margin: 50px;">\
   Your world, your mode—light or dark, it's always right
 </h4>
 </p>
-##
+\
 
 <p>
   <h4 style="text-align: center;">
