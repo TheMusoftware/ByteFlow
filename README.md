@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/216ae40d-04cb-4e56-b87e-52fd9fb9bc12" alt="Logo" width="300">
 </p>
@@ -81,14 +82,13 @@ A user-friendly application to enhance learning through interactive and engaging
 <br style="clear: both;">
 <br style="clear: both;">
 <br style="clear: both;">
+<p>Follow the rabbit, seize the moment. Every question is a door to discovery, every second a chance to grow. Your journey begins here—dare to see how far you can go.  </p>
 
-<div style="text-align: center; margin-bottom: 50px;">
-  <img align="left" height="300" src="https://github.com/user-attachments/assets/7ff6b74a-d5de-4c2c-9208-bad085fbf0b0" style="margin-right: 20px;"><br style="clear: both;">
-<br style="clear: both;">
-<br style="clear: both;">
-  
-Follow the rabbit, seize the moment. Every question is a door to discovery, every second a chance to grow. Your journey begins here—dare to see how far you can go.  </p>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ff6b74a-d5de-4c2c-9208-bad085fbf0b0"  width="300">
+</p>
+
+
 
 
 
