@@ -12,7 +12,7 @@ A user-friendly application to enhance learning through interactive and engaging
 
 ## Features
 
-<h4><img align="center" height="300"  src="https://github.com/user-attachments/assets/a9f73f4c-fff2-4fe6-96e8-60dd3365e938"> Your world, your mode—light or dark, it's always right
+<h4><img align="center" height="300"  src="https://github.com/user-attachments/assets/a9f73f4c-fff2-4fe6-96e8-60dd3365e938" style="margin-bottom: 20px;"> Your world, your mode—light or dark, it's always right
 </h4>
 
 
