@@ -17,7 +17,7 @@ A user-friendly application to enhance learning through interactive and engaging
   Your world, your mode—light or dark, it's always right
 </h4>
 
-<br>
+<br/>
 
 <h4 style="text-align: center;">
   <img align="right" height="300" src="https://github.com/user-attachments/assets/25d0367a-f7f6-4487-b233-9ac5e6dc7475" style="margin: 50px;">
