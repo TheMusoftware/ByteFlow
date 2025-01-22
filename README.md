@@ -103,6 +103,20 @@ ByteFlow is built with cutting-edge technologies to deliver a seamless and robus
 -   **Light & Dark Theme:** Ensuring optimal usability for every environment.
 
 
+## Supported Languages
+ByteFlow supports the following programming languages:
+
+- ![C](https://img.shields.io/badge/C-%2300599C.svg?&style=flat&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat&logo=csharp&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-%230175C8.svg?&style=flat&logo=dart&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-%23007396.svg?&style=flat&logo=java&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-%234285B2.svg?&style=flat&logo=node.js&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%232576D2.svg?&style=flat&logo=python&logoColor=white)
+- ![Swift](https://img.shields.io/badge/Swift-%23F05138.svg?&style=flat&logo=swift&logoColor=white)
+
+
+
 ## Authors
 [Mustafa Kazı](https://www.linkedin.com/in/musoftware)
 
