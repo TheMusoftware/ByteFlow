@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/user-attachments/assets/216ae40d-04cb-4e56-b87e-52fd9fb9bc12)
+<img src="https://github.com/user-attachments/assets/216ae40d-04cb-4e56-b87e-52fd9fb9bc12" alt="Logo" width="400">
 
 
 # ByteFlow
