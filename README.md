@@ -89,7 +89,18 @@ A user-friendly application to enhance learning through interactive and engaging
 </p>
 
 
+### 🛠️ Tech Stack
 
+ByteFlow is built with cutting-edge technologies to deliver a seamless and robust user experience:
+
+-   **Flutter:** For creating a visually stunning and cross-platform application.
+-   **Firebase:** To manage user authentication, real-time data storage, and cloud functions.
+-   **Firestore:** For flexible, scalable NoSQL cloud storage, ensuring real-time syncing of data across devices.
+-   **API Integration:** For seamless real-time code execution within the integrated terminal.
+-   **Google Sign-In:** To provide a hassle-free authentication experience.
+-   **Shared Preferences:** For storing user preferences locally.
+-   **Push Notifications:** To keep users informed and engaged.
+-   **Light & Dark Theme:** Ensuring optimal usability for every environment.
 
 
 ## Authors
