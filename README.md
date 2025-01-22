@@ -1,5 +1,7 @@
 
-<img src="https://github.com/user-attachments/assets/216ae40d-04cb-4e56-b87e-52fd9fb9bc12" alt="Logo" width="400">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/216ae40d-04cb-4e56-b87e-52fd9fb9bc12" alt="Logo" width="300">
+</p>
 
 
 # ByteFlow
