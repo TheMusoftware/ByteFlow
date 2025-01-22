@@ -19,12 +19,7 @@ A user-friendly application to enhance learning through interactive and engaging
   </h4>
 </div>
 
-<div style="clear: both; margin-top: 50px;">
-  <h4 style="text-align: center;">
-    <img align="right" height="300" src="https://github.com/user-attachments/assets/25d0367a-f7f6-4487-b233-9ac5e6dc7475" style="margin: 20px;">
-    Code in real-time, break boundaries—ByteFlow's terminal, where execution meets perfection
-  </h4>
-</div>
+
 
 
 
