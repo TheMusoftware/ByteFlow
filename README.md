@@ -18,7 +18,7 @@ A user-friendly application to enhance learning through interactive and engaging
   Your world, your mode—light or dark, it's always right
 </h4>
 </p>
-
+##
 
 <p>
   <h4 style="text-align: center;">
