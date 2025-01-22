@@ -12,21 +12,24 @@ A user-friendly application to enhance learning through interactive and engaging
 
 ## Features
 
-<h4 style="text-align: center;">
+<p>
+  <h4 style="text-align: center;">
   <img align="left" height="300" src="https://github.com/user-attachments/assets/a9f73f4c-fff2-4fe6-96e8-60dd3365e938" style="margin: 50px;">
   Your world, your mode—light or dark, it's always right
 </h4>
+</p>
 
-<br/>
 
-<h4 style="text-align: center;">
+<p>
+  <h4 style="text-align: center;">
   <img align="right" height="300" src="https://github.com/user-attachments/assets/25d0367a-f7f6-4487-b233-9ac5e6dc7475" style="margin: 50px;">
   Code in real-time, break boundaries—ByteFlow's terminal, where execution meets perfection
 </h4>
+</p>
 
 
 
-@terminalPhoto
+
 
 ByteFlow includes a powerful real-time code execution terminal
 
