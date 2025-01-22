@@ -12,15 +12,11 @@ A user-friendly application to enhance learning through interactive and engaging
 
 ## Features
 
-<h4><img align="center" height="300"  src="https://github.com/user-attachments/assets/a9f73f4c-fff2-4fe6-96e8-60dd3365e938" style="margin-left: 30px;"> Your world, your mode—light or dark, it's always right
+<h4><img align="left" height="300"  src="https://github.com/user-attachments/assets/a9f73f4c-fff2-4fe6-96e8-60dd3365e938" style="margin-left: 30px;"> Your world, your mode—light or dark, it's always right
 </h4>
 
 
-
-ByteFlow adapts seamlessly to your preference with dynamic light and dark modes, ensuring an optimal experience anytime, anywhere
-
-
-
+![IMG_1586-left](https://github.com/user-attachments/assets/25d0367a-f7f6-4487-b233-9ac5e6dc7475)
 
 
 
